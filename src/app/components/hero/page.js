@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="bg-gray-100 h-screen flex items-center justify-center mt-1">
         <div className="container mx-auto flex items-center">
           <div className="md:w-1/2 text-center md:text-left tracking-widest ">
-            <h1 className="text-5xl font-bold mb-4 leading-[4rem]">
+            <h1 className="text-4xl font-bold mb-4 leading-[4rem]">
               Delicious Pizza
               <br /> Delivered to Your{" "}
               <span className="font-extrabold text-yellow-400 bg-black px-8 rounded-full shadow-md">
